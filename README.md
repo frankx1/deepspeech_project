@@ -1,4 +1,4 @@
-# deepspeech_project
+# DeepSpeech_Project
 <br />Intro to maching learning @NYU
 <br />deepspeech_project
 <br />Contributor: Bojun Xu, Anping Yang
